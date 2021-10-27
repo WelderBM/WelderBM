@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
--👨‍💻I’m currently learning especially html and css
+- 👨‍💻I’m currently learning especially html and css
     <br>
     <div align="left">
         <a href="https://github.com/WelderBM">
