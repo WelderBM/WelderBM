@@ -16,7 +16,6 @@
     <img alt="node-img" width="60" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 </div>
 <br>
-<h2>Frequência das linguagens:</h2>
 <div align="left">
     <a href="https://github.com/WelderBM">
     <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelderBM&layout=compact&langs_count=7&theme=winter"/>
