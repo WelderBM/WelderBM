@@ -1,11 +1,11 @@
-<h1 align="center">Olá!😄 meu nome é Welder!</h1>
+<h1 align="center">Hello!😄 My name is Welder!</h1>
 <div display="inline">
     <div align="center">
         <img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/source.gif" height="450px" width="450px" />
     </div>
     <br>
     <div>
-    <p>👨‍💻Faço curso de informática do IFRR, onde iniciei há quase 3 anos e aprendo os aspectos gerais deste meio, incluindo a programação. Também faço um curso de programação fullstack, o Code Club, onde já aprendi html, css, GIT/GitHub, JavaScript básico e avançado e também o Node. Ainda vou aprender React, React Native e fazer muitos desafios futuros, assim como já fiz dos conteúdos já estudados.</p>
+    <p>👨‍💻I study computing course of IFRR, where I started almost 3 years ago, and I learn the general aspects of this medium, including programming. I also do a fullstack programming course, Code Club, where I learned html, css, GIT / GitHub, basic and advanced JavaScript and also Node. I will still learn React, React Native and many future challenges, as I have already done with the contents already studied.</p>
     </div>
 </div>
 <div>
