@@ -1,4 +1,4 @@
-<h1 align="center">Olá!😄 meu nome é Welder</h1>
+<h1 align="center">Olá!😄 meu nome é Welder!</h1>
 <div display="inline">
     <div align="center">
         <img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/source.gif" height="450px" width="450px" />
@@ -9,7 +9,7 @@
     </div>
 </div>
 <div>
-    <h2>Linguagens:</h2>
+    <h2>Stack:</h2>
     <img alt="html-img" width="50" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
     <img alt="css-img" width="50" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
     <img alt="javascript-img" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
