@@ -5,7 +5,7 @@
     </div>
     <br>
     <div>
-    <p>👨‍💻I study computing course of IFRR, where I started almost 3 years ago, and I learn the general aspects of this medium, including programming. I also do a fullstack programming course, Code Club, where I learned html, css, GIT / GitHub, basic and advanced JavaScript and also Node. I will still learn React, React Native and many future challenges, as I have already done with the contents already studied.</p>
+    <p>👨‍💻I study computing course of IFRR, where I started almost 3 years ago, and I learn the general aspects of this medium, including programming. I also do a fullstack programming course, Code Club, where I learned html, css, GIT / GitHub, basic and advanced JavaScript, Node.js and React.js. Im a Front-ed developer using <b>JavaScript and React.js</b>.</p>
     </div>
 </div>
 <div>
