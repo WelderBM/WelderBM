@@ -1,11 +1,11 @@
-<h1 align="center">Hello!😄 My name is Welder!</h1>
+# Hello!😄 My name is Welder!
 <div display="inline">
     <div align="center">
         <img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/source.gif" height="450px" width="450px" />
     </div>
     <br>
     <div>
-    <p>👨‍💻I study computing course of IFRR, where I started almost 3 years ago, and I learn the general aspects of this medium, including programming. I also do a fullstack programming course, Code Club, where I learned html, css, GIT / GitHub, basic and advanced JavaScript, Node.js and React.js. Im a Front-ed developer using <b>JavaScript and React.js</b>.</p>
+    <p>👨‍💻Completion of computer course integrated to high school at IFRR and student of fullstack developer course Dev Club (formerly Code Club)</p>
     </div>
 </div>
 <div>
