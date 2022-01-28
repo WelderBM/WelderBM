@@ -1,7 +1,7 @@
 # Hello!😄 My name is Welder!
 <div display="inline">
     <div align="center">
-        <img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/source.gif" height="450px" width="450px" />
+        <img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/source.gif" height="auto" width="450px" />
     </div>
     <br>
     <div>
