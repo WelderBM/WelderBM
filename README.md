@@ -4,9 +4,6 @@
         <img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/source.gif" height="auto" width="450px" />
     </div>
     <br>
-    <div>
-    <p>👨‍💻Completion of computer course integrated to high school at IFRR and student of fullstack developer course Dev Club (formerly Code Club)</p>
-    </div>
 </div>
 <div>
     <h2>Stack:</h2>
