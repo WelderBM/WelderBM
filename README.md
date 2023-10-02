@@ -16,7 +16,7 @@
 </p>
 
 - 🌱 Studying and improving my skills in Reactjs.
-- 🚀 Student at Devclub, Senac and Times idioms.
+- 🚀 Student at Devclub, Senac and Cubos Academy.
 - 📫 My email: welderb40a@gmail.com
 
 ### ⚡ Technologies:
@@ -25,7 +25,7 @@ These are some of the technologies and tools I use:
 
 - Front-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,next,styledcomponents,tailwind,bootstrap)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,next,styledcomponents)](https://skillicons.dev)
 
 - Tools and Plataforms
 
