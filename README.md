@@ -2,7 +2,7 @@
 
 ## 💼 Brief Professional Description
 
-(descrição)
+(descrição) partner at Brothers Corporation
 
 ## 🚀 Technologies I Use
 
