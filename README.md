@@ -1,44 +1,64 @@
-<h1 align='center'>
-  Hello, I'm Welder Barroso!
-  <br/>
-  Welcome to my page :)
-</h1>
-<p align='center'>
-  Frontend Developer
-</p>
+# 👋 Hello, I'm Welder Barroso!
 
-### 👨‍💻 About Me:
+## 💼 Brief Professional Description
 
-<p>
-  <em>
-    I'm 19 years old, i live in Boa Vista/RR and i searching for remote jobs.
-  </em>
-</p>
+(descrição)
 
-- 🌱 Studying and improving my skills in Reactjs.
-- 🚀 Student at Devclub, Senac and Cubos Academy.
-- 📫 My email: welderb40a@gmail.com
+## 🚀 Technologies I Use
 
-### ⚡ Technologies:
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://docs.github.com/)
 
-These are some of the technologies and tools I use:
 
-- Front-End
+## 📫 Contact Information
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,next,styledcomponents)](https://skillicons.dev)
+Let's connect! You can find me on the following social networks:
 
-- Tools and Plataforms
+<a href="https://wa.me/5595991341586" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+<a href="https:[//www.linkedin.com/in/ghabriel-elias/](https://www.linkedin.com/in/welder-barroso-37b654207/)" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=aws,git,gitlab,postman,figma)](https://skillicons.dev)
-<br>
-<br>
-<br>
-<br>
-💬 Want to get in touch?
+---
 
-<div>
-  <a href="https://www.linkedin.com/in/welder-barroso-37b654207?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me//5595991341586" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-</div>
-<br>
+Thank you for visiting my profile! Let's build something amazing together! 🚀
 
+---
+
+# 👋 Olá, eu sou o Ghabriel Elias!
+
+## 💼 Breve descrição profissional
+
+Sou desenvolvedor Front End com especialidade em desenvolvimento mobile, tanto para iOS quanto para Android. Trabalho atualmente como desenvolvedor Front End Pleno na Orange Labs LTDA, utilizando metodologias ágeis para desenvolver aplicativos e sites de alta performance para os clientes. Além disso, trabalho na Lux Corporation Telecomunicações LTDA, exclusivamente nos aplicativos mobile.
+
+## 🚀 Tecnologias que eu uso
+
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
+[![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react-native&logoColor=white)](https://reactnative.dev/)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)](https://www.electronjs.org/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://docs.github.com/)
+[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+
+## 📫 Informações para contato
+
+Vamos nos conectar! Você pode me encontrar nas seguintes redes sociais:
+
+<a href="https://wa.me/5595984050997" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+<a href="https://www.linkedin.com/in/ghabriel-elias/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+---
+
+Agradeço pela visita ao meu perfil! Vamos construir algo incrível juntos! 🚀
