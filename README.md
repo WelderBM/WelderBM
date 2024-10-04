@@ -2,7 +2,7 @@
 
 ## 💼 Brief Professional Description
 
-I have a degree in computer science and am currently a front-end web developer partner at 'Brothers Corporation'.
+I have a degree in computer science and i am currently a front-end web developer partner at 'Brothers Corporation'.
 
 ## 🚀 Technologies I Use
 
