@@ -2,7 +2,7 @@
 
 ## 💼 Brief Professional Description
 
-I im a IT technician formed from the institute of tecnology of Roraima and i am currently a front-end developer at Pigz🤎🐽.
+I im a IT technician formed from the institute of tecnology of Roraima and i am currently a front-end developer.
 
 ## 🚀 Technologies I Use
 
