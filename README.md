@@ -26,7 +26,7 @@ Let's connect! You can find me on the following social networks:
 <a href="https://www.linkedin.com/in/welder-barroso-37b654207/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="welderb40@gmail.com" target="_blank">
+<a href="mailto:welderb40@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
