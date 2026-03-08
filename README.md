@@ -3,13 +3,14 @@
 ![Nevalo Banner](./banner.png)
 
 # Olá, eu sou Welder Barroso! 👋
+
 ### Fundador da [Nevalo](https://welderbarroso.dev) · Desenvolvedor Software Humanizado
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Welder%20Barroso-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/welder-barroso-37b654207)
 [![GitHub](https://img.shields.io/badge/Portfólio-welderbarroso.dev-1be4c8?style=for-the-badge&labelColor=03080f&color=1be4c8)](https://welderbarroso.dev)
 [![WhatsApp](https://img.shields.io/badge/Conectar-WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5595984006377)
 
-*"Flow through every connection."*
+_"Flow through every connection."_
 
 [PT-BR] · [EN](#english-version)
 
@@ -19,7 +20,7 @@
 
 ## 🚀 Sobre Mim & Nevalo
 
-Sou técnico em TI formado pelo IFRR e atualmente atuo como Desenvolvedor Frontend e fundador da **Nevalo**. 
+Sou técnico em TI formado pelo IFRR e atualmente atuo como Desenvolvedor Frontend e fundador da **Nevalo**.
 
 A Nevalo não é apenas uma empresa de software; é uma filosofia de **tecnologia humana**. Acreditamos que o software deve ser flexível, fluido e, acima de tudo, conectar pessoas de forma genuína. Cada linha de código que escrevo carrega o compromisso de criar experiências que não apenas funcionam, mas encantam.
 
@@ -32,12 +33,12 @@ A Nevalo não é apenas uma empresa de software; é uma filosofia de **tecnologi
 
 ## 🛠️ Stack Tecnológica
 
-| Especialidade | Tecnologias |
-| :--- | :--- |
-| **Frontend** | React, Next.js, Vite, TypeScript, Styled-Components, Tailwind CSS |
-| **Mobile** | React Native |
-| **Backend / Infra** | Firebase (Firestore, Auth, Storage, Hosting), Node.js |
-| **Design / Tools** | Figma, Nevalo Design System, Git, Yarn/NPM |
+| Especialidade       | Tecnologias                                                       |
+| :------------------ | :---------------------------------------------------------------- |
+| **Frontend**        | React, Next.js, Vite, TypeScript, Styled-Components, Tailwind CSS |
+| **Mobile**          | React Native                                                      |
+| **Backend / Infra** | Firebase (Firestore, Auth, Storage, Hosting), Node.js             |
+| **Design / Tools**  | Figma, Nevalo Design System, Git, Yarn/NPM                        |
 
 ---
 
@@ -45,17 +46,17 @@ A Nevalo não é apenas uma empresa de software; é uma filosofia de **tecnologi
 
 <div align="center">
 
-| Projeto | Descrição | Stack |
-| :--- | :--- | :--- |
-| [**Mix Webapp**](https://github.com/WelderBM/mix-webapp) | Plataforma E-commerce Full Stack com engine de customização. | Next.js, Firebase, Zustand |
-| [**JL Skull Barber**](https://github.com/WelderBM/jl_skull_barber_site) | Sistema de agendamento real para barbearia com painel administrativo. | Vanilla JS, Firebase |
-| [**simpleRifa**](https://github.com/WelderBM/simpleRifa) | Ferramenta de arrecadação beneficente criada para apoiar causas familiares. | Vanilla JS, Firebase |
-| **Nevalo DS** | O núcleo visual e técnico de todos os meus projetos. | Design System Proprietário |
-| [**Netflix Clone**](https://github.com/WelderBM/netflix-clone-iteam) | Clone fiel da interface Netflix com drag-to-scroll. | Vanilla JS, CSS3 |
-| [**Instagram App**](https://github.com/WelderBM/instagram-app) | Clone do Instagram com troca dinâmica de temas e API. | React, Vite |
-| [**Pigz Challenge**](https://github.com/WelderBM/pigzchallenge) | App mobile para logística e ganhos de entregadores. | React Native, TS |
-| [**Weather Forecast**](https://github.com/WelderBM/weather-forecast) | Previsão do tempo em tempo real com API de geolocalização. | React, Vite |
-| [**Photography Login**](https://github.com/WelderBM/LoginPage-photography) | UI Challenge: Tela de login temática imersiva. | React, CSS3 |
+| Projeto                                                                    | Descrição                                                                   | Stack                      |
+| :------------------------------------------------------------------------- | :-------------------------------------------------------------------------- | :------------------------- |
+| [**Mix Webapp**](https://github.com/WelderBM/mix-webapp)                   | Plataforma E-commerce Full Stack com engine de customização.                | Next.js, Firebase, Zustand |
+| [**JL Skull Barber**](https://github.com/WelderBM/jl_skull_barber_site)    | Sistema de agendamento real para barbearia com painel administrativo.       | Vanilla JS, Firebase       |
+| [**simpleRifa**](https://github.com/WelderBM/simpleRifa)                   | Ferramenta de arrecadação beneficente criada para apoiar causas familiares. | Vanilla JS, Firebase       |
+| **Nevalo DS**                                                              | O núcleo visual e técnico de todos os meus projetos.                        | Design System Proprietário |
+| [**Netflix Clone**](https://github.com/WelderBM/netflix-clone-iteam)       | Clone fiel da interface Netflix com drag-to-scroll.                         | Vanilla JS, CSS3           |
+| [**Instagram App**](https://github.com/WelderBM/instagram-app)             | Clone do Instagram com troca dinâmica de temas e API.                       | React, Vite                |
+| [**Pigz Challenge**](https://github.com/WelderBM/pigzchallenge)            | App mobile para logística e ganhos de entregadores.                         | React Native, TS           |
+| [**Weather Forecast**](https://github.com/WelderBM/weather-forecast)       | Previsão do tempo em tempo real com API de geolocalização.                  | React, Vite                |
+| [**Photography Login**](https://github.com/WelderBM/LoginPage-photography) | UI Challenge: Tela de login temática imersiva.                              | React, CSS3                |
 
 </div>
 
@@ -78,9 +79,10 @@ Se você tem um projeto desafiador ou quer apenas trocar uma ideia sobre tecnolo
 <div align="center">
 
 # Hello, I'm Welder Barroso! 👋
+
 ### Founder of [Nevalo](https://welderbarroso.dev) · Humanized Software Developer
 
-*"Flow through every connection."*
+_"Flow through every connection."_
 
 </div>
 
