@@ -49,7 +49,7 @@ A Nevalo não é apenas uma empresa de software; é uma filosofia de **tecnologi
 | :--- | :--- | :--- |
 | [**Mix Webapp**](https://github.com/WelderBM/mix-webapp) | Plataforma E-commerce Full Stack com engine de customização. | Next.js, Firebase, Zustand |
 | [**JL Skull Barber**](https://github.com/WelderBM/jl_skull_barber_site) | Sistema de agendamento real para barbearia com painel administrativo. | Vanilla JS, Firebase |
-| [**simpleRifa**](https://github.com/WelderBM/simpleRifa) | Gestão imersiva de rifas familiares com sync em tempo real. | Vanilla JS, Firebase |
+| [**simpleRifa**](https://github.com/WelderBM/simpleRifa) | Ferramenta de arrecadação beneficente criada para apoiar causas familiares. | Vanilla JS, Firebase |
 | **Nevalo DS** | O núcleo visual e técnico de todos os meus projetos. | Design System Proprietário |
 | [**Netflix Clone**](https://github.com/WelderBM/netflix-clone-iteam) | Clone fiel da interface Netflix com drag-to-scroll. | Vanilla JS, CSS3 |
 | [**Instagram App**](https://github.com/WelderBM/instagram-app) | Clone do Instagram com troca dinâmica de temas e API. | React, Vite |
