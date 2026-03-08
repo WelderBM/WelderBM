@@ -3,10 +3,10 @@
 ![Nevalo Banner](./banner.png)
 
 # Olá, eu sou Welder Barroso! 👋
-### Fundador da [Nevalo](https://nevalo.dev) · Desenvolvedor Software Humanizado
+### Fundador da [Nevalo](https://welderbarroso.dev) · Desenvolvedor Software Humanizado
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Welder%20Barroso-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/welder-barroso-37b654207)
-[![GitHub](https://img.shields.io/badge/Portfólio-nevalo.dev-1be4c8?style=for-the-badge&labelColor=03080f&color=1be4c8)](https://nevalo.dev)
+[![GitHub](https://img.shields.io/badge/Portfólio-welderbarroso.dev-1be4c8?style=for-the-badge&labelColor=03080f&color=1be4c8)](https://welderbarroso.dev)
 [![WhatsApp](https://img.shields.io/badge/Conectar-WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5595984006377)
 
 *"Flow through every connection."*
@@ -47,10 +47,14 @@ A Nevalo não é apenas uma empresa de software; é uma filosofia de **tecnologi
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| [**Mix Webapp**](https://github.com/WelderBM/mix-webapp) | Plataforma E-commerce Full Stack com personalização de produtos. | Next.js, Firebase, Zustand |
+| [**Mix Webapp**](https://github.com/WelderBM/mix-webapp) | Plataforma E-commerce Full Stack com engine de customização. | Next.js, Firebase, Zustand |
 | [**JL Skull Barber**](https://github.com/WelderBM/jl_skull_barber_site) | Sistema de agendamento real para barbearia com painel administrativo. | Vanilla JS, Firebase |
-| [**Nevalo DS**](https://github.com/WelderBM/design-system) | O núcleo visual da minha marca. Tokens, componentes e filosofia. | CSS Puro, HTML5 |
-| [**BurgerApp**](https://github.com/WelderBM/BurgerApp) | App de delivery com gestão completa de pedidos e navegação fluida. | React, Styled-Components |
+| [**Nevalo DS**](https://github.com/WelderBM/design-system) | O núcleo visual da minha marca. Tokens e componentes. | CSS Puro, HTML5 |
+| [**Netflix Clone**](https://github.com/WelderBM/netflix-clone-iteam) | Clone fiel da interface Netflix com drag-to-scroll. | Vanilla JS, CSS3 |
+| [**Instagram App**](https://github.com/WelderBM/instagram-app) | Clone do Instagram com troca dinâmica de temas e API. | React, Vite |
+| [**Pigz Challenge**](https://github.com/WelderBM/pigzchallenge) | App mobile para logística e ganhos de entregadores. | React Native, TS |
+| [**Weather Forecast**](https://github.com/WelderBM/weather-forecast) | Previsão do tempo em tempo real com API de geolocalização. | React, Vite |
+| [**Photography Login**](https://github.com/WelderBM/LoginPage-photography) | UI Challenge: Tela de login temática imersiva. | React, CSS3 |
 
 </div>
 
@@ -62,7 +66,7 @@ Se você tem um projeto desafiador ou quer apenas trocar uma ideia sobre tecnolo
 
 - 📧 **Email:** [welderbarroso.dev@gmail.com](mailto:welderbarroso.dev@gmail.com)
 - 📱 **WhatsApp:** [+55 (95) 98400-6377](https://wa.me/5595984006377)
-- 🪐 **Web site:** [nevalo.dev](https://nevalo.dev)
+- 🪐 **Web site:** [welderbarroso.dev](https://welderbarroso.dev)
 
 ---
 
@@ -73,7 +77,7 @@ Se você tem um projeto desafiador ou quer apenas trocar uma ideia sobre tecnolo
 <div align="center">
 
 # Hello, I'm Welder Barroso! 👋
-### Founder of [Nevalo](https://nevalo.dev) · Humanized Software Developer
+### Founder of [Nevalo](https://welderbarroso.dev) · Humanized Software Developer
 
 *"Flow through every connection."*
 
@@ -109,5 +113,5 @@ I'm an IT technician and frontend developer based in Roraima, Brazil. As the fou
 ---
 
 <div align="center">
-<sub>Tecnologia com alma · Technology with soul · <a href="https://nevalo.dev">nevalo.dev</a></sub>
+<sub>Tecnologia com alma · Technology with soul · <a href="https://welderbarroso.dev">welderbarroso.dev</a></sub>
 </div>
